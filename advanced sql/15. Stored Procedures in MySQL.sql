@@ -23,7 +23,7 @@ FROM employee_salary
 WHERE salary >= 10000;
 
 -- here is the solution
-
+-- PS : U cant put comment between the delimiter, u know u would know it
 DELIMITER $$ 
 CREATE PROCEDURE large_salaries3()
 BEGIN
