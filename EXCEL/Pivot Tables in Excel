@@ -1,0 +1,11 @@
+Notes of what learned:
+
+- jika dataset berbentuk csv dan cara memisahkan data per kolom adalah blok dulu kolom yang berisi data, ke tab data lalu klik text to columns, pilih delimited lalu next, di kolom centang delimiters check yang comma (uncheck semua kecuali comma), lalu next aja dan ok, buat file baru dengan save as untuk ubah format yang sblmnya csv menjadi xlsx
+- cara membuat pivot table, pilih semua tabel yang mau dibuatkan pivot table (klik diantara A dan 1 yg berbentuk segitia siku siku), lalu pilih mau di new worksheet atau existing worksheet (kalo existing worksheet pilih lokasinya janlup)
+- untuk mengisi pivot table, tinggal drag n drop ke area filters, columns, rows, n values sesuai kebutuhan
+- untuk di video ini, country dan state ditaroh di rows yang menghasilkan data data misal pada baris baris, australia sbg country (negara) lalu di australia ada beberapa states nya (provinsi), klik kanan di australia lalu bisa pilih expand(memperluas) atau collapse(kempeskan)
+- kolom revenue di tambahkan ke values fields, pertama kali diperlihatkan adalah sum, jadi sum of revenue akan disesuaikan berdasarkan country dan juga statenya, ketika australia di expand akan kelihatan juga sum of revenue pada setiap wilayah state
+- jika ada data penjualan dan di dataset awal hanya angka (example of revenue, cost, profit), bisa diperjelas dengan blok cell yang mau diubah, di tab home bagian number, ubah ke currency, bisa mengubah dari yg awal rupiah ke dolar di accounting number format, dan klik decrease decimal 2x jika misal di akhir nilai ,00 atau .00
+- di bagian values fields, in our example is sum of revenue and u click the down arrow, klik value field setting, it can change column name or change the type of calculation (sum, count, average, min, max) or change how the value want to be showed like % of grand total and so on
+- for sorting cell in some column, right click on cell with sum of revenue, click sort and u can choose ascending or descending. some note, when u sort a country its only sort country not state, so u must sort manually with state 
+- for instance of making calculated field, check if profit column are true value with revenue substract by cost so the value of it is the real profit, click on some pivot table cell, click tab analyze, click fields, items, & sets, click calculated field, and set the formula u want
