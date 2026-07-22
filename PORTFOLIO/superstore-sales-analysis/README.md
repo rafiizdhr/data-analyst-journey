@@ -23,9 +23,9 @@ How is Superstore performing in terms of sales growth, and where are the opportu
 - Which shipping mode is used most frequently?
 
 ## Dataset
-Source: Superstore Sales Dataset
-Size: 2.13 MB
-Link to Kaggle: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
+- Source: Superstore Sales Dataset
+- Size: 2.13 MB
+- Link to Kaggle: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
 ## Tools
 Python (Pandas), Power BI
