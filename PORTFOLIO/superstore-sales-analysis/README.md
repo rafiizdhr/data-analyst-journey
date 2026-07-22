@@ -25,7 +25,7 @@ How is Superstore performing in terms of sales growth, and where are the opportu
 ## Dataset
 Source: Superstore Sales Dataset
 Size: 2.13 MB
-link to Kaggle: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
+Link to Kaggle: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
 ## Tools
 Python (Pandas), Power BI
