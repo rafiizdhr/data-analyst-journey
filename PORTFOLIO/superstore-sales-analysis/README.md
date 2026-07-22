@@ -1,19 +1,26 @@
 # Superstore Sales Analysis
 
 ## Business Question
-- How much total sales ? 
-- How much the order count ? 
-- What the average sales per order ?
-- How many customer has order in superstore ?
-- is the company sales trend is increase by over the year ?
-- which region has the most buy our product ?
+How is Superstore performing in terms of sales growth, and where are the opportunities to improve operational efficiency (shipping) and customer/product focus ?
 
-- which our product has the most sales ?
-- what segment is the most sales ?
-- who's the company top ordered ? 
+**Key questions this analysis answers**
 
-- is our shipping already do what it should do, like shipping mode on same day has no shipping duration day which means 0 and so on
-- which shipping mode are used to shipping ?
+*Sales Performance*
+- How much are total sales?
+- What is the order count?
+- What is the average sales per order?
+- Is the sales trend increasing over the years?
+- Which region has the highest sales?
+
+*Product & Customer*
+- How many customers have ordered from Superstore?
+- Which product has the most sales?
+- Which segment generates the most sales?
+- Who are the top-ordering customers?
+
+*Shipping & Operations*
+- Is shipping performing as expected? (e.g. Same Day shipping should show 0-day duration)
+- Which shipping mode is used most frequently?
 
 ## Dataset
 Source: Superstore Sales Dataset
