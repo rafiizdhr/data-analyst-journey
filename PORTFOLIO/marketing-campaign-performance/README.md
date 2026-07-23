@@ -1,6 +1,6 @@
 # Marketing Campaign Performance Dashboard (Excel)
 
-An end-to-end Excel analytics project analyzing marketing campaign performance across channels, campaign types, customer segments, and time - built to demonstrate Power Query, PivotTables, PivotCharts, DAX-free formula work, and interactive dashboard design
+An end-to-end Excel analytics project analyzing marketing campaign performance across channels, campaign types, customer segments, and time - built to demonstrate Power Query, PivotTables, PivotCharts, and interactive dashboard design
 
 ## Dataset
 
@@ -8,7 +8,7 @@ Source: [Marketing Campaign Performance Dataset](https://www.kaggle.com/datasets
 (Kaggle, by Manisha Bhatt)
 
 - Original size: ~200,000 rows
-- Filtered down to ~50,000 rows (Jan-Apr 2021) using Power Query for performance and manageablity
+- Filtered down to ~50,000 rows (Jan-Apr 2021) using Power Query to keep the file responsive and easy to review manually
 - Key Columns: Campaign_Type, Channel_Used, Customer_Segment, Target_Audience, Location, Conversion_Rate, Acquisition_Cost, ROI, Impressions, Clicks, Engagement_Score, Date
 
 ## Tools & Skills
@@ -18,11 +18,11 @@ Source: [Marketing Campaign Performance Dataset](https://www.kaggle.com/datasets
 - **PivotTables**: multi-dimensional aggregation (Sum, Average) across 5+ dimensions
 - **PivotCharts**: linked, interactive visualizations
 - **Slicers & Timeline**: cross-filtering multiple PivotTables/charts simultaneously
-- **Dashboard design**: KPI cards, conditional formatting, custom number formatting, clean layout
+- **Dashboard design**: KPI cards, custom number formatting, clean layout
 
 ## Key Finding: Data Validation Before Insight
 
-Before building a "Which channel/segment performs best" narrative, I systematically tested ROI, Conversion Rate, and Engagement Score across five dimensions:
+Before building a "Which channel/segment performs best" narrative, I systematically tested ROI and Conversion Rate across five dimensions:
 
 | Dimension | ROI Range | Conversion Rate Range |
 |---|---|---|
@@ -43,7 +43,7 @@ Rather than force a misleading "Channel X wins" story onto data that doesn't sup
 - **KPI Cards**: Total Impressions, Total Clicks, Total Acquisition Cost, Baseline Avg ROI
 - **Volume Chart**: Impressions & Clicks by Channel
 - **Spend Chart**: Average Acquisition Cost by Channel
-- **Trend Chart**: Monthly Impressions & Clicks (Jan-Apr 2021; Aplril reflects a partial month, hence the volume dip)
+- **Trend Chart**: Monthly Impressions & Clicks (Jan-Apr 2021; April reflects a partial month, hence the volume dip)
 - **Slicers**: Channel_Used, Customer_Segment, and a Date Timeline - all cross-filter every chart simulataneously
 
 ## Folder Structure
