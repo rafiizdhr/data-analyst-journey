@@ -55,6 +55,7 @@ Python (Pandas), Power BI
 - standard class is the most frequently used shipping mode
 
 ## Dashboard Preview
+
 ![Executive Overview](dashboard\screenshots\superstore_dashboard_page-0001.png)
 ![Category Performance](dashboard\screenshots\superstore_dashboard_page-0002.png)
 ![Customer/Segment Insights](dashboard\screenshots\superstore_dashboard_page-0003.png)
