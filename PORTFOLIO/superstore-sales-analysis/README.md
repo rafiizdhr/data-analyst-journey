@@ -56,7 +56,7 @@ Python (Pandas), Power BI
 
 ## Dashboard Preview
 
-![Executive Overview](dashboard\screenshots\superstore_dashboard_page-0001.png)
-![Category Performance](dashboard\screenshots\superstore_dashboard_page-0002.png)
-![Customer/Segment Insights](dashboard\screenshots\superstore_dashboard_page-0003.png)
-![Shipping/Operations](dashboard\screenshots\superstore_dashboard_page-0004.png)
+![Executive Overview](dashboard/screenshots/superstore_dashboard_page-0001.png)
+![Category Performance](dashboard/screenshots/superstore_dashboard_page-0002.png)
+![Customer/Segment Insights](dashboard/screenshots/superstore_dashboard_page-0003.png)
+![Shipping/Operations](dashboard/screenshots/superstore_dashboard_page-0004.png)
