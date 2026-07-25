@@ -54,7 +54,7 @@ Sales showed elevated attrition (21%) and entry-level employees showed elevated 
 
 ## Dashboard Preview
 
-![Dashboard Overview](image.png)
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
 - **KPI Cards**: Total Employees, Overall Attrition Rate, Total Estimated Cost, High-Risk Group Cost, Goal Seek Target Savings
 - **Charts**: Attrition by OverTime, Attrition by Income, OverTime × Job Satisfaction (nested), Cost Sensitivity by Attrition Rate

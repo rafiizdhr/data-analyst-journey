@@ -38,7 +38,7 @@ Rather than force a misleading "Channel X wins" story onto data that doesn't sup
 
 ## Dashboard Preview
 
-![Dashboard Overview](image-1.png)
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
 - **KPI Cards**: Total Impressions, Total Clicks, Total Acquisition Cost, Baseline Avg ROI
 - **Volume Chart**: Impressions & Clicks by Channel
